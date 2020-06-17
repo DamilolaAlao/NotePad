@@ -1,6 +1,6 @@
 # NotePad RESTful API using Node.js, Express, & lowdb
 
-This is a boilerplate for building a notepad  REST APIs using Express & lowdb.
+This is a boilerplate for building notepad  REST APIs using Express & lowdb.
 
 ## Table of Contents
 
